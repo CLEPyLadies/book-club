@@ -8,4 +8,28 @@ Location: Anatolia
 
 Source: [No Starch Press](https://automatetheboringstuff.com/2e/chapter0/)
 
-Notes:
+Agenda:
+
+**Topic for discussion** | **Sub Topic** | **Notes** |
+-- | -- | --
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+ 
