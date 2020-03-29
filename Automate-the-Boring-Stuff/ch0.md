@@ -6,7 +6,7 @@ Time: 2-4:30pm
 
 Location: ~~Anatolia~~ [Online](https://meet.google.com/xfy-wqgu-wdc)
 
-Source: [No Starch Press](https://automatetheboringstuff.com/2e/chapter0/)
+Source: No Starch Press [(read chapter 0 online)](https://automatetheboringstuff.com/2e/chapter0/)
 
 Agenda:
 
