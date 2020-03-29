@@ -18,7 +18,7 @@ Meeting structure | |1 chapter per week + buffer week |
 Next meeting |Chapters 1 & 2 |April 17-20 |
 Discussion |Chapter 0 |Seed question: What boring things in your life could be automated? |
 Automating Repetitive Tasks |Excel | |
-Automating Repetitive Tasks |Network Engineering |Ansible<br>[Hank Preston](https://twitter.com/hfpreston?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) |
+Automating Repetitive Tasks |Network Engineering |[Ansible](https://www.ansible.com/resources/get-started)<br>[Hank Preston](https://twitter.com/hfpreston?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) |
  | | |
  | | |
 Getting connected |Slack! |[https://cleveland-tech.herokuapp.com](https://cleveland-tech.herokuapp.com) |
