@@ -28,7 +28,7 @@ More resources |PyCon 2019 |:sparkling_heart: [YouTube: Recorded presentations f
 More resources |PyOhio |:sparkling_heart: [YouTube: Recorded presentations from PyOhio](https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ)<br>:sparkling_heart: [Video: Learning Python with Minecraft](https://youtu.be/WqD6SDoXjkQ)
 Getting connected |Slack! |:sparkling_heart: [Sign up at cleveland-tech.herokuapp.com](https://cleveland-tech.herokuapp.com)<br>:sparkling_heart: [Existing Cleveland Tech Slackers use cleveland-tech.slack.com](https://cleveland-tech.slack.com/) |
 Getting connected |Twitter |:sparkling_heart: [Cleveland PyLadies (CLE.pyd)](https://twitter.com/CLEPyLadies)<br>:sparkling_heart: [Cleveland Python User Group (CLE.py)](https://twitter.com/CLEpy) |
-Getting connected |Meetup |:sparkling_hear: [CLE.pyd](https://www.meetup.com/cle-pyladies/)<br>:sparkling_heart: [CLE.py](https://www.meetup.com/Cleveland-Area-Python-Interest-Group/)<br>:sparkling_heart: Search for Python (or other tech interests) in other metro areas, as well! |
+Getting connected |Meetup |:sparkling_heart: [CLE.pyd](https://www.meetup.com/cle-pyladies/)<br>:sparkling_heart: [CLE.py](https://www.meetup.com/Cleveland-Area-Python-Interest-Group/)<br>:sparkling_heart: Search for Python (or other tech interests) in other metro areas, as well! |
 Getting connected |Reddit |:sparkling_heart: [r/Python](https://www.reddit.com/r/Python/)<br>:sparkling_heart: [r/LearnPython](https://www.reddit.com/r/learnpython/)<br>:sparkling_heart: ["What did YOU automate with python?"](https://www.reddit.com/r/Python/comments/3p8m2s/what_did_you_automate_with_python/) |
  | | |
  | | |
