@@ -21,7 +21,7 @@ Automating Repetitive Tasks |Network Engineering |Ansible<br>[Hank Preston](http
  | | |
  | | |
  | | |
- | | |
+Getting connected |Slack! |[https://cleveland-tech.herokuapp.com](https://cleveland-tech.herokuapp.com) |
  | | |
  | | |
  | | |
