@@ -28,7 +28,7 @@ More resources |Stack Overflow | |
 Getting connected |Slack! |[https://cleveland-tech.herokuapp.com](https://cleveland-tech.herokuapp.com) |
 Getting connected |Twitter | |
 Getting connected |Meetup | |
-Getting connected |Reddit | |
+Getting connected |Reddit |[r/Python](https://www.reddit.com/r/Python/)<br>[r/LearnPython](https://www.reddit.com/r/learnpython/) |
  | | |
  | | |
  | | |
