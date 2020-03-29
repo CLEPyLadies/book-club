@@ -17,7 +17,7 @@ Introductions |What is your name?<br>What area of town are you in?<br>What broug
 Meeting structure | |1 chapter per week + buffer week |
 Next meeting |Chapters 1 & 2 |April 17-20 |
 Discussion |Chapter 0 |Seed question: What boring things in your life could be automated? |
-Automating Repetitive Tasks |Excel | |
+Automating Repetitive Tasks |Excel |Automate the Boring Stuff, Chapters [13](https://automatetheboringstuff.com/2e/chapter13/) & [14](https://automatetheboringstuff.com/2e/chapter14/) |
 Automating Repetitive Tasks |Network Engineering |[Ansible](https://www.ansible.com/resources/get-started)<br>[Hank Preston](https://twitter.com/hfpreston?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)<br>[Video: Useful Python Libraries for Network Engineers](https://youtu.be/LPx77m4aZqs) |
  | | |
  | | |
