@@ -25,6 +25,7 @@ More learning resources |PyLadies Remote |[YouTube](https://www.youtube.com/chan
 More learning resources |Programming for social sciences |[Carpentries](https://carpentries.org/) |
 More resources |Medium | [4 Basic Python Tips](https://medium.com/better-programming/4-basic-python-tips-to-automate-your-workflow-befabe140b83)|
 More resources |Stack Overflow | |
+More resources |PyCon 2019 |[Recorded presentations from PyCon 2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ) |
 Getting connected |Slack! |[https://cleveland-tech.herokuapp.com](https://cleveland-tech.herokuapp.com) |
 Getting connected |Twitter | |
 Getting connected |Meetup | |
