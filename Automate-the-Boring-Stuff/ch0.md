@@ -17,7 +17,7 @@ Introductions |What is your name?<br>What area of town are you in?<br>What broug
 Meeting structure | |1 chapter per week + buffer week |
 Next meeting |Chapters 1 & 2 |April 17-20 |
 Discussion |Chapter 0 |Seed question: What boring things in your life could be automated? |
- |Network Engineering |Ansible<br>Hank Preston |
+Automating Repetitive Tasks |Network Engineering |Ansible<br>[Hank Preston](https://twitter.com/hfpreston?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) |
  | | |
  | | |
  | | |
