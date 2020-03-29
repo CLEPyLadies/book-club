@@ -15,7 +15,7 @@ Agenda:
 Online meetup reminders |Make sure you mute your mic when someone else is speaking<br>Feel free to use the chat function if you need help or if you don't feel comfortable piping up | |
 Introductions |What is your name?<br>What area of town are you in?<br>What brought you here?,<br>What is something enjoyable that you've been doing during quarantine? |:sparkling_heart: [DjangoGirls](https://tutorial.djangogirls.org/en/)<br>:sparkling_heart: [Lynda.com via Cuyahoga County Library System](https://www.cuyahogalibrary.org/Research/Resources/Lynda-com.aspx) |
 Meeting structure | |1 chapter per week + buffer week |
-Next meeting |Chapters 1 & 2 |April 17-20 |
+Next meeting |Chapters 1 & 2 |April 17-19, specifics TBA |
 Discussion |Chapter 0 |Seed question: What boring things in your life could be automated? |
 Automating Repetitive Tasks |Excel |:sparkling_heart: Automate the Boring Stuff, Chapters [13](https://automatetheboringstuff.com/2e/chapter13/) & [14](https://automatetheboringstuff.com/2e/chapter14/) |
 Automating Repetitive Tasks |Network Engineering |:sparkling_heart: [Ansible (Getting started)](https://www.ansible.com/resources/get-started)<br>:sparkling_heart: [Hank Preston on Twitter](https://twitter.com/hfpreston?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)<br>:sparkling_heart: [Video: Useful Python Libraries for Network Engineers](https://youtu.be/LPx77m4aZqs)<br>:sparkling_heart: [Hank Preston presentation decks on SlideShare](https://www.slideshare.net/HankPreston1) |
