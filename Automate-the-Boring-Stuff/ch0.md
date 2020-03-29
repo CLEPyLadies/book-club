@@ -4,7 +4,7 @@ Date: 29 March 2020
 
 Time: 2-4:30pm
 
-Location: Anatolia
+Location: ~~Anatolia~~ [Online](https://meet.google.com/xfy-wqgu-wdc)
 
 Source: [No Starch Press](https://automatetheboringstuff.com/2e/chapter0/)
 
