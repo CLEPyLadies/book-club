@@ -12,7 +12,7 @@ Agenda:
 
 **Topic for discussion** | **Sub Topic** | **Notes** |
 -- | -- | --
-Introductions |Name,<br>what area of town,<br>what brought you here?,<br>something enjoyable that you've been doing during quarantine | |
+Introductions |What is your name?<br>What area of town are you in?<br>What brought you here?,<br>What is something enjoyable that you've been doing during quarantine? | |
 Meeting structure | |1 chapter per week + buffer week |
 Next meeting |Chapters 1 & 2 |April 17-20 |
 Discussion |Chapter 0 |Seed question: What boring things in your life could be automated? |
