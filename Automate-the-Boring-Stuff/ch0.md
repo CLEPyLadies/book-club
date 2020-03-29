@@ -22,7 +22,7 @@ Automating Repetitive Tasks |Network Engineering |[Ansible](https://www.ansible.
  | | |
  | | |
 Getting connected |Slack! |[https://cleveland-tech.herokuapp.com](https://cleveland-tech.herokuapp.com) |
-More learning resources |PyLadies Remote |[https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ) |
+More learning resources |PyLadies Remote |[YouTube](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)<br>[Resources site](https://remote.pyladies.com/resources/) |
 More learning resources |Programming for social sciences |[Carpentries](https://carpentries.org/) |
  | | |
  | | |
