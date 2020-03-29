@@ -28,7 +28,7 @@ More resources |Stack Overflow | |
 Getting connected |Slack! |[https://cleveland-tech.herokuapp.com](https://cleveland-tech.herokuapp.com) |
 Getting connected |Twitter | |
 Getting connected |Meetup | |
-Getting connected |Reddit |[r/Python](https://www.reddit.com/r/Python/)<br>[r/LearnPython](https://www.reddit.com/r/learnpython/) |
+Getting connected |Reddit |[r/Python](https://www.reddit.com/r/Python/)<br>[r/LearnPython](https://www.reddit.com/r/learnpython/)<br>["What did YOU automate with python?"](https://www.reddit.com/r/Python/comments/3p8m2s/what_did_you_automate_with_python/) |
  | | |
  | | |
  | | |
