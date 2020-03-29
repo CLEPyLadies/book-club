@@ -12,7 +12,7 @@ Agenda:
 
 **Topic for discussion** | **Sub Topic** | **Notes** |
 -- | -- | --
- | | |
+Introductions |Name, what area of town, "what brought you here?", "something enjoyable that you've been doing during quarantine" | |
  | | |
  | | |
  | | |
